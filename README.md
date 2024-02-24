@@ -1,5 +1,5 @@
 # Youtube Shorts     
-Live Demo - https://star-wars-planets-iota.vercel.app/
+Live Demo - https://youtube-shorts-lovat.vercel.app/
 
 Welcome to the Star Wars Planets website! This project provides detailed information about various planets in the Star Wars universe.
 
