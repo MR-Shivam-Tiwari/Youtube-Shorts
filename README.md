@@ -21,7 +21,7 @@ npm start
 
 ## Explore the Home Page
 
-The home page of the Star Wars Planets website provides an overview of featured planets. Follow these steps:
+
 
 1. Run the app using the above commands.
 3. Open [http://localhost:3000](http://localhost:3000) in your browser.
