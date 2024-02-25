@@ -77,7 +77,7 @@ function Video({ video, index }) {
             >
               <video
                 className="rounded-4"
-                src={video.videoLink}
+                src={video?.videoLink}
                 controls={false}
                 autoPlay={isPlaying}
                 style={{
